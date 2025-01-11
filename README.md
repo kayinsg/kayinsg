@@ -7,7 +7,7 @@
 
 <table><tr>
 <td valign="top" width="50%">
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=530&size=23&duration=3000&pause=3500&color=FFFFFF&width=360&lines=Development+Environment" alt="Typing Animation"><br>
+DEVELOPMENT ENVIRONMENT
 <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=530&size=23&duration=3000&pause=3500&color=4285F4&width=360&lines=Linux" alt="Typing Animation"><br>
 <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=530&size=23&duration=3000&pause=3500&color=EA4335&width=360&lines=i3wm" alt="Typing Animation"><br>
 <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=530&size=23&duration=3000&pause=3500&color=FBBC05&width=360&lines=TMUX" alt="Typing Animation"><br>
