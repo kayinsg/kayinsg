@@ -13,7 +13,7 @@ DEVELOPMENT ENVIRONMENT
 <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=530&size=23&duration=3000&pause=3500&color=FBBC05&width=360&lines=TMUX" alt="Typing Animation"><br>
 <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=530&size=23&duration=3000&pause=3500&color=34A853&width=360&lines=Neovim" alt="Typing Animation"><br>
 </td>
-<td valign="top" width="50%">
+<td valign="center" width="50%">
 <img src="https://github.com/kayinsg/kayinsg/blob/main/img2.gif" width="325">
 </td>
 </tr></table>
