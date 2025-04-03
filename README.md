@@ -21,7 +21,7 @@ Projects & Contributions<br>
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
 </p>
 Feel free reach out for collaborations or discussions on programming-related topics.<br><br>
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/kayinpepperr/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/kayin-gayle/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="kayin.gayle@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
