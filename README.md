@@ -1,6 +1,6 @@
 <!-- Information -->
 
-|People Who Largely Address The Internal Details of Modules Within Their Unit Tests | **My Honest Response** |
+|People Who Largely Target The Internal Details of Modules Within Their Unit Tests | **My Honest Response** |
 |--------------|-------|
 |<div align="left"> <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=450&size=30&duration=1500&pause=500&color=AE0000&width=435&lines=TDD+Is+Dead.;TDD+Does+Not+Work.;TDD+Is+A+Waste+Of+Time." alt="Typing Animation"></div> | <img src="https://github.com/kayinsg/kayinsg/blob/main/img1.jpg" width="350"> |
 
