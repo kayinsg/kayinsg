@@ -2,7 +2,7 @@
 
 |People Who Target The Internals of Modules In Unit Tests | **My Honest Response** |
 |--------------|-------|
-| <div align="left"> <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=450&size=30&duration=500&pause=500&color=AE0000&width=435&lines=%22TDD+Is+Dead.%22;%22TDD+Does+Not+Work.%22;%22TDD+Is+A+Waste+Of+Time.%22" alt="Typing Animation"></div> | <img src="https://github.com/kayinsg/kayinsg/blob/main/img1.jpg" width="350"> |
+| <div align="left"> <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=450&size=28&duration=500&pause=500&color=AE0000&width=435&lines=%22TDD+Is+Dead.%22;%22TDD+Does+Not+Work.%22;%22TDD+Is+A+Waste+Of+Time.%22" alt="Typing Animation"></div> | <img src="https://github.com/kayinsg/kayinsg/blob/main/img1.jpg" width="400"> |
 
 
 <table><tr>
