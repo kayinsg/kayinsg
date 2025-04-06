@@ -1,17 +1,8 @@
 <!-- Information -->
 
-<table><tr>
-<td valign="top" width="50%">
-<strong>DEVELOPMENT ENVIRONMENT</strong>
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=530&size=23&duration=2100&pause=400&color=4285F4&width=360&lines=Linux" alt="Typing Animation"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=530&size=23&duration=2100&pause=400&color=EA4335&width=360&lines=i3wm" alt="Typing Animation"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=530&size=23&duration=2100&pause=400&color=FBBC05&width=360&lines=TMUX" alt="Typing Animation"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=530&size=23&duration=2100&pause=400&color=34A853&width=360&lines=Neovim" alt="Typing Animation"><br>
-</td>
-<td valign="center" width="50%">
-<img src="https://github.com/kayinsg/kayinsg/blob/main/img2.gif" width="325">
-</td>
-</tr></table>
+| **DEVELOPMENT ENVIRONMENT** |  |
+|-----------------------------|---|
+| <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=530&size=23&duration=2100&pause=400&color=4285F4&width=360&lines=Linux" alt="Typing Animation"><br><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=530&size=23&duration=2100&pause=400&color=EA4335&width=360&lines=i3wm" alt="Typing Animation"><br><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=530&size=23&duration=2100&pause=400&color=FBBC05&width=360&lines=TMUX" alt="Typing Animation"><br><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=530&size=23&duration=2100&pause=400&color=34A853&width=360&lines=Neovim" alt="Typing Animation"> | <img src="https://github.com/kayinsg/kayinsg/blob/main/img2.gif" width="325"> |
 
 Projects & Contributions<br>
 <p align="left">
